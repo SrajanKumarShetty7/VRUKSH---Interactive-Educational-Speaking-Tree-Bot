@@ -1,0 +1,2 @@
+# VRUKSH---Interactive-Educational-Speaking-Tree-Bot
+VRUKSH is an AI-powered Interactive Educational Speaking Tree Robot that provides real-time learning assistance through voice interaction. Built using Raspberry Pi 4B, it uses speech recognition and AI to understand queries and generate responses. It supports offline operation and features a 3D-designed structure with an interactive LCD display.
